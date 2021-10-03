@@ -1,7 +1,7 @@
 const Header = () => {
   return(
-    <div>
-      <h1>This is header</h1>
+    <div className="app-header">
+      <h1>Notes list</h1>
     </div>
   )
 }
