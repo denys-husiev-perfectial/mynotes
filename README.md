@@ -3,6 +3,12 @@ https://www.udemy.com/course/react-crash-course
 
 https://github.com/divanov11/notes-app
 
+### to start the app, run these commands in 2 separate terminal windows:
+
+`npm start`
+
+`npm run server`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
